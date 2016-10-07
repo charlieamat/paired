@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eabdb4f5faa6db74e8e321a971a7704b, type: 3}
+  m_Name: RedDeck
+  m_EditorClassIdentifier: 
+  Textures:
+  - {fileID: 2800000, guid: 678a19437f0797147990ded6218bdeb8, type: 3}
+  - {fileID: 2800000, guid: aea07a809244fc144b144cc6f92fd01b, type: 3}
+  - {fileID: 2800000, guid: 0850e186b4aef9b4eb200de425700b49, type: 3}
+  - {fileID: 2800000, guid: c9a8cab63421ee34da14ec9be16ce163, type: 3}
+  - {fileID: 2800000, guid: 38ed733776cb4de4591ddbd9e7bcf2fb, type: 3}
+  - {fileID: 2800000, guid: 1bfb39b3aacda9943819da2bc7a83f1e, type: 3}
+  - {fileID: 2800000, guid: 1bfb39b3aacda9943819da2bc7a83f1e, type: 3}
+  - {fileID: 2800000, guid: 1bfb39b3aacda9943819da2bc7a83f1e, type: 3}
+  - {fileID: 2800000, guid: 1bfb39b3aacda9943819da2bc7a83f1e, type: 3}
+  - {fileID: 2800000, guid: 1bfb39b3aacda9943819da2bc7a83f1e, type: 3}
+  - {fileID: 2800000, guid: 1bfb39b3aacda9943819da2bc7a83f1e, type: 3}
+  - {fileID: 2800000, guid: 1bfb39b3aacda9943819da2bc7a83f1e, type: 3}
+  - {fileID: 2800000, guid: 1bfb39b3aacda9943819da2bc7a83f1e, type: 3}
+  - {fileID: 2800000, guid: 1bfb39b3aacda9943819da2bc7a83f1e, type: 3}
+  - {fileID: 2800000, guid: 1bfb39b3aacda9943819da2bc7a83f1e, type: 3}
+  - {fileID: 2800000, guid: 1bfb39b3aacda9943819da2bc7a83f1e, type: 3}

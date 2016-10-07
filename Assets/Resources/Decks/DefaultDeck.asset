@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eabdb4f5faa6db74e8e321a971a7704b, type: 3}
+  m_Name: DefaultDeck
+  m_EditorClassIdentifier: 
+  Textures:
+  - {fileID: 2800000, guid: a1fa79ea077ee494c8bf263d2ffe672c, type: 3}
+  - {fileID: 2800000, guid: 66250cb3c37b41049a31fd1f08384442, type: 3}
+  - {fileID: 2800000, guid: 002e3645ffc24c74cbfa47e74c446f32, type: 3}
+  - {fileID: 2800000, guid: 0b60f03ff9b657c4bbbee7c6b33596ca, type: 3}
+  - {fileID: 2800000, guid: ff37196cee5572340894d3096bed4375, type: 3}
+  - {fileID: 2800000, guid: d5f26977b9ae7a345a6f133109b47af7, type: 3}
+  - {fileID: 2800000, guid: 4d96300d3efb41d439ba0ec62fce4841, type: 3}
+  - {fileID: 2800000, guid: 7d816288f2204c04b863658bfde608c2, type: 3}
